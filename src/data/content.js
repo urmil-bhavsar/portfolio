@@ -7,7 +7,7 @@ export const siteConfig = {
   instagram: 'https://www.instagram.com/urmildraws/',
   linkedin: 'https://www.linkedin.com/in/urmil-bhavsar/',
   email: 'urmilwork1@gmail.com',
-  resume: '/Urmil_Bhavsar_FSD_Resume.pdf',
+  resume: '/assets/Urmil_Bhavsar_FSD_Resume.pdf',
   github: null,
 };
 
@@ -129,15 +129,15 @@ export const experiences = [
 
 export const artwork = [
   {
-    src: '/drawing_1.jpg',
+    src: '/assets/drawing_1.jpg',
     alt: 'Black and white pencil portrait drawing of a person behind a fence.',
   },
   {
-    src: '/drawing_2.jpg',
+    src: '/assets/drawing_2.jpg',
     alt: 'Black and white pencil portrait illustration of a character with a stylized face.',
   },
   {
-    src: '/drawing_3.jpg',
+    src: '/assets/drawing_3.jpg',
     alt: 'Pencil portrait drawing of a person holding a mask and sketching with a pencil.',
   },
 ];
