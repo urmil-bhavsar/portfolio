@@ -1,0 +1,56 @@
+URMIL BHAVSAR
+Ahmedabad, Gujarat | Open to Relocate • 7874070280 • urmilwork1@gmail.com https://www.linkedin.com/in/urmilbhavsar
+SUMMARY
+Full Stack Developer with 2+ years of experience building enterprise and client-facing applications using React, Angular, Node.js, NestJS, and PostgreSQL. Experienced in backend architecture, REST APIs, third-party integrations, and end-to-end application development.
+WORK EXPERIENCE
+Full Stack Developer, Techify Solutions Private LimitedOctober 2025 – Present
+Technologies: Node.js, React.js, PostgreSQL, Express.js, Redis, Docker, Jenkins
+Unified CRM operations across three platforms by architecting the AiCardVault CRM microservice, integrating HubSpot, Salesforce, and Zoho for consistent workflow and data synchronization.
+Reduced manual provisioning effort in the Billing & Collections module by automating data-seeding for users, roles, permissions, and application configuration.
+Strengthened organizational control over multi-department access by enhancing Super Admin functionality to manage users across hierarchies, including marketing and finance modules.
+Enabled real-time patient engagement for Entel by architecting manual and scheduled push notification workflows on Apache Kafka for asynchronous, event-driven processing.
+Improved release confidence across Entel's microservices by implementing Vitest test cases and automating microservice-level and global HTML test reports.
+Delivered the Tribhuvandas Foundation healthcare survey platform end-to-end as sole backend owner, building dynamic conditional-question workflows, role-based authorization, offline synchronization, and Redis caching for analytics and reporting.
+Improved API and query performance for data-intensive workflows by optimizing database queries and introducing Redis caching.
+Expanded platform accessibility for non-English-speaking users by integrating Sarvam-105B for multilingual search.
+Reduced manual document and communication handling across healthcare applications by integrating AWS S3 for storage and AWS SES for automated email delivery.
+Standardized and accelerated deployment across AiCardVault, Entel, and the Tribhuvandas platform by containerizing services with Docker and building CI/CD pipelines in Jenkins.
+Full Stack Developer, GRT Technologies LLPFeb 2025 - Oct 2025
+Technologies: Angular, React.js, Node.js, Express.js, NestJS, PostgreSQL, VPS
+Modernized ICICI Bank's web presence by developing responsive, accessible Angular components as part of a website modernization initiative.
+Reduced manual integration work for the LION (Apple) client by automating REST API service generation from OpenAPI/Swagger specs.
+Delivered HRMS and Amayra Crystals backend systems from concept to production by independently leading API development and deployment.
+Enabled natural-language database querying via AI SQL Agent by building AI-powered chat, speech-to-text, and data visualization features.
+Delivered billing, archiving, and admin functionality across three client platforms (National Transafe, MedicosWorld, StarVibe) by building backend services, billing workflows, and automated PDF generation.
+Improved data workflow visibility for POS & SRAI by building Angular-based analytics dashboards with dynamic tables and advanced filtering.
+Maintained code quality as a merge gate across the team by implementing Angular unit tests using Karma, sustaining 80% test coverage across pull requests.
+Accelerated ramp-up for junior engineers by mentoring on React, Angular, and Node.js and supporting cross-team knowledge sharing.
+Software Developer, Xceltec Interactive Private Limited Technologies: Angular, Node.js, Express.js, SQL
+Jun 2024 - Jan 2025
+MarineCP: Independently managed end-to-end development of a maritime charter party platform, enabling owners, charterers, brokers, and admins to trade and draft contracts. Led architecture, design, frontend and backend development, API integration, and deployment of both admin and user-facing applications. Integrated Google Maps API with best practices to ensure optimized usage and controlled billing.
+P6: Maintained and enhanced a business risk management system where users could raise and challenge risks. Focused on improving system reliability, optimizing performance, and delivering new features.
+Technical Leadership: Proactively conducted technical interviews for MEAN stack roles, assessing candidates for both technical competence and team fit. Led structured training programs for new hires, ensuring rapid onboarding and alignment with project standards and best practices
+MERN Stack Intern, Reveation Technologies LLP Technologies: React.js, Node.js, Express.js, SQL
+Feb 2024 - May 2024
+Developed and maintained frontend and backend features for two e-commerce platforms, including cart, wishlist, and checkout functionality. Enhanced the frontend of a jewelry valuation system for capturing and managing jewelry details. Led the frontend and backend redevelopment of the company website, improving responsiveness and user experience.
+EDUCATION
+Bachelor of Engineering in Information Technology
+Government Engineering College, Modasa
+TECHNICAL SKILLS
+Frontend: React.js, Angular
+SOFT SKILLS
+Adaptability
+2019 - 2024
+Backend: Node.js, Express.js, NestJS
+Database: PostgreSQL, SQL, MongoDB
+Cloud: AWS S3, AWS SES
+APIs s Architecture: REST APIs, OpenAPI/Swagger, WebSockets, Apache Kafka
+Testing: Vitest, Karma, Jest
+Other: JavaScript, TypeScript, Cron Jobs,
+VPS & DNS Deployment, Redis/Caching, Git, CI/CD, Jenkins, Microservice Architecture, Agile/Scrum, AI Integration
+FREELANCE FULL STACK DEVELOPER
+Team Collaboration Creativity, Time Management Problem-Solving Mindset Critical Thinking
+Technical Curiosity Mentorship & Leadership Ownership & Accountability
+Independently designed and developed two full-stack production applications with backend APIs and custom admin panels for dynamic content management.
+Managed end-to-end deployment on Hostinger VPS, including frontend, backend, and admin systems.
+Links: Manage Services — https://www.manageservices.co.in,  Sunlink Properties — https://sunlinkproperties.com
