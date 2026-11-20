@@ -320,6 +320,22 @@ h3,
   margin-top: 1.2rem;
 }
 
+.project-impact {
+  margin: 0.85rem 0 0 !important;
+  font-size: 0.88rem;
+  line-height: 1.5;
+  color: var(--text) !important;
+  background: rgba(255, 255, 255, 0.45);
+  border-left: 2px solid var(--accent);
+  padding: 0.5rem 0.85rem;
+  border-radius: 0 4px 4px 0;
+}
+
+.project-impact strong {
+  color: var(--accent);
+  font-weight: 600;
+}
+
 .project-tech span,
 .compact-tech span {
   display: inline-flex;

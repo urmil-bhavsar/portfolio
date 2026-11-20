@@ -67,13 +67,12 @@ function App() {
         <section className="hero section-shell">
           <div className="container hero-grid">
             <motion.div className="hero-copy" initial="hidden" animate="show" variants={reveal}>
-              <p className="eyebrow">FULL STACK DEVELOPER</p>
+              <p className="eyebrow">FULL STACK & AI SYSTEMS ENGINEER</p>
               <h1>
-                I build practical digital solutions with code and curiosity.
+                I build scalable distributed systems and AI-powered production platforms.
               </h1>
               <p className="lede">
-                I’m a full stack developer focused on building reliable web applications and backend systems that solve real business problems.
-                With 2+ years of experience, I work across React, Angular, Node.js, PostgreSQL, APIs, AWS, Docker, and CI/CD to deliver scalable, user-friendly products.
+                Full Stack & AI Engineer with 2.7+ years of experience engineering high-throughput distributed microservices, scalable backend architectures, and AI-powered production systems using Node.js, NestJS, TypeScript, Python, React, Angular, and PostgreSQL.
               </p>
 
               <div className="cta-row">
@@ -96,8 +95,11 @@ function App() {
 
         <section id="work" className="section-shell">
           <div className="container">
-            <div className="section-heading">
-              <p className="eyebrow">Selected Work</p>
+            <div className="section-heading split-heading">
+              <div>
+                <p className="eyebrow">Selected Work</p>
+                <h2>Distributed systems, AI agents, and production platforms.</h2>
+              </div>
             </div>
 
             <div className="projects">
@@ -108,6 +110,11 @@ function App() {
                     <p className="project-name">{project.name}</p>
                     <h3>{project.label}</h3>
                     <p>{project.summary}</p>
+                    {project.impact && (
+                      <p className="project-impact">
+                        <strong>Impact:</strong> {project.impact}
+                      </p>
+                    )}
                     <div className="project-tech">
                       {project.tech.map((tech) => (
                         <span key={tech}>{tech}</span>
@@ -118,7 +125,7 @@ function App() {
                         View live project <ArrowUpRight size={14} />
                       </a>
                     ) : (
-                      <span className="inline-link muted">Project details</span>
+                      <span className="inline-link muted">{project.badge || 'Enterprise Architecture'}</span>
                     )}
                   </div>
 
@@ -219,7 +226,7 @@ function App() {
                 </div>
                 <div>
                   <span>Focus</span>
-                  <strong>Full Stack Development</strong>
+                  <strong>Full Stack, Backend & AI Systems</strong>
                 </div>
                 <div>
                   <span>Education</span>
@@ -299,7 +306,7 @@ function App() {
         <div className="container footer-flex">
           <div>
             <p className="brand small">URMIL BHAVSAR</p>
-            <p>Full Stack Developer</p>
+            <p>Full Stack & AI Systems Engineer</p>
           </div>
 
           <div className="footer-links">
