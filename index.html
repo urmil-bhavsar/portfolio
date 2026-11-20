@@ -12,6 +12,15 @@
     <meta property="canonical" content="https://example.com/" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <title>Urmil Bhavsar | Full Stack & AI Systems Engineer</title>
+    <script>
+      (function () {
+        try {
+          var saved = localStorage.getItem('theme');
+          var theme = saved || 'dark';
+          document.documentElement.setAttribute('data-theme', theme);
+        } catch (e) {}
+      })();
+    </script>
   </head>
   <body>
     <div id="root"></div>
