@@ -7,7 +7,7 @@ export const siteConfig = {
   instagram: 'https://www.instagram.com/urmildraws/',
   linkedin: 'https://www.linkedin.com/in/urmil-bhavsar/',
   email: 'urmilwork1@gmail.com',
-  resume: '/assets/Urmil_Bhavsar_FSD_Resume.pdf',
+  resume: '/assets/Urmil Bhavsar - Full Stack & AI Engineer Resume.pdf',
   github: null,
 };
 

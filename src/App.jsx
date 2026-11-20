@@ -30,7 +30,13 @@ function App() {
             <a href="#about">About</a>
             <a href="#creative">Creative</a>
             <a href="#contact">Contact</a>
-            <a href={siteConfig.resume} className="nav-resume" target="_blank" rel="noreferrer">
+            <a
+              href={siteConfig.resume}
+              download="Urmil Bhavsar - Full Stack & AI Engineer Resume.pdf"
+              className="nav-resume"
+              target="_blank"
+              rel="noreferrer"
+            >
               Resume <ArrowUpRight size={14} />
             </a>
           </nav>
@@ -55,7 +61,13 @@ function App() {
               <a href="#about" onClick={() => setMobileOpen(false)}>About</a>
               <a href="#creative" onClick={() => setMobileOpen(false)}>Creative</a>
               <a href="#contact" onClick={() => setMobileOpen(false)}>Contact</a>
-              <a href={siteConfig.resume} target="_blank" rel="noreferrer" onClick={() => setMobileOpen(false)}>
+              <a
+                href={siteConfig.resume}
+                download="Urmil Bhavsar - Full Stack & AI Engineer Resume.pdf"
+                target="_blank"
+                rel="noreferrer"
+                onClick={() => setMobileOpen(false)}
+              >
                 Resume ↗
               </a>
             </nav>
@@ -294,7 +306,12 @@ function App() {
                 <Instagram size={16} />
                 Instagram
               </a>
-              <a href={siteConfig.resume} target="_blank" rel="noreferrer">
+              <a
+                href={siteConfig.resume}
+                download="Urmil Bhavsar - Full Stack & AI Engineer Resume.pdf"
+                target="_blank"
+                rel="noreferrer"
+              >
                 Resume
               </a>
             </div>
@@ -313,7 +330,14 @@ function App() {
             <a href={siteConfig.linkedin} target="_blank" rel="noreferrer">LinkedIn</a>
             <a href={siteConfig.instagram} target="_blank" rel="noreferrer">Instagram</a>
             <a href={`mailto:${siteConfig.email}`}>Email</a>
-            <a href={siteConfig.resume} target="_blank" rel="noreferrer">Resume</a>
+            <a
+              href={siteConfig.resume}
+              download="Urmil Bhavsar - Full Stack & AI Engineer Resume.pdf"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Resume
+            </a>
           </div>
 
           <p>© 2026 Urmil Bhavsar</p>
